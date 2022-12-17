@@ -1,0 +1,33 @@
+body{
+    Color: black;
+    background-image: linear-gradient( rgb(143, 42, 42),yellow,orange, white);
+    Background-size: fill;
+    font-family: impact;
+    font-weight: bold;
+    text-align: center; 
+    /* background: url(https://wallpaper.dog/small/10704872.jpg) no-repeat center center fixed; --> */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    max-width: 100%;
+}
+.text{
+    text-decoration: underline;
+    
+}
+.list{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+.image{
+    box-shadow: 10px 5px 5px black;
+}
+.par{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    /* text-align: center; */
+    margin: 0 auto;
+}
